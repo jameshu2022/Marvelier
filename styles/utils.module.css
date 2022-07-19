@@ -1,0 +1,19 @@
+.list {
+    list-style : none;
+    padding : 0;
+    margin : 0;
+}
+
+.nextLink {
+    text-decoration : none;
+}
+
+.nextLink:hover {
+    text-decoration : underline;
+    color : #4A5568;
+}
+
+.infoLink {
+    text-decoration : underline;
+    color : blue;
+}
